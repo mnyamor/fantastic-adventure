@@ -16,5 +16,8 @@
     "express"
   ],
   "author": "Mary Nyamor",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
