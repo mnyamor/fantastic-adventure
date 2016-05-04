@@ -18,6 +18,8 @@
   "author": "Mary Nyamor",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.4"
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0"
   }
 }
